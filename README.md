@@ -1,1 +1,1 @@
-# Microsoft-MLOps
+# Duke-University-MLOps-Specialization
